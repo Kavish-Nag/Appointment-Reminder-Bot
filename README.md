@@ -97,13 +97,6 @@ The system checks for appointments occurring roughly within the next 0 to 70 min
 
 ---
 
-## Project Structure
-
-```
-app.py
-README.md
-```
-
 ---
 
 ## Future Improvements
